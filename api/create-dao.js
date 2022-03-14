@@ -1,6 +1,5 @@
 require('./_config');
 const { ethers } = require('hardhat');
-// const { ContractFactory } = ethers;
 const fs = require('fs');
 const { compile } = require('./_util');
 const mongoose = require('mongoose');
